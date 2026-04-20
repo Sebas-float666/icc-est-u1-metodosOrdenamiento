@@ -8,4 +8,4 @@
 ### Fecha 2026-04-20
 ### Descripcion
 
-Cree la clase ´BubbleSort´ que implemente el metodo de ordenamiento burbuja, tres metodos ascendente, descendente y un mixto por parametro.
+Cree la clase ´giBubbleSort´ que implemente el metodo de ordenamiento burbuja, tres metodos ascendente, descendente y un mixto por parametro.
